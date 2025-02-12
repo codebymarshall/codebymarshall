@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jonathan Marshall</h1>
-<h3 align="center">A passionate Full Stack Software Engineer</h3>
+<h2 align="center">A passionate Full Stack Software Engineer</h2>
+<h3 align="center">👨‍💻 All of my projects are available at <a href="https://jonathanmarshall.xyz" target="blank">my portfilio website.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebymarshall&label=Profile%20views&color=0e75b6&style=flat" alt="codebymarshall" /> </p>
+### 👷 Check out what I'm currently working on
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebymarshall" alt="codebymarshall" /></a> </p>
+- [E-commerce Store Demo](https://github.com/codebymarshall/eccomerce-store)
 
-- 🔭 I’m currently working on [E-commerce Store Demo](https://github.com/codebymarshall/eccomerce-store)
+### 🌱 My latest projects
 
-- 👨‍💻 All of my projects are available at [https://jonathanmarshall.xyz](https://jonathanmarshall.xyz)
+- [Android App](https://github.com/codebymarshall/mobile-app) - My first android app project
+- [Javascript Game](https://github.com/codebymarshall/JSGameProject) - Simple Javascript Game
 
-- 💬 Ask me about **Android, React, Java**
 
-- 📫 How to reach me **jonathanmarshall.it@protonmail.com**
-
-- 📄 Know about my experiences [https://github.com/codebymarshall/resume/blob/main/resume.md](https://github.com/codebymarshall/resume/blob/main/resume.md)
+<h3 align="left"> 📄 Know about my experiences:</h3>
+<p align="left">
+<a href="https://github.com/codebymarshall/resume/blob/main/resume.md" target="blank">Resume</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

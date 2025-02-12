@@ -9,7 +9,7 @@
 ### 🌱 My latest projects
 
 - [Android App](https://github.com/codebymarshall/mobile-app) - My first android app project
-- [Platformer Game](https://github.com/codebymarshall/finding-home/)) - Simple Javascript Game
+- [Platformer Game](https://github.com/codebymarshall/finding-home/) - Simple Javascript Game
 
 
 <h3 align="left"> 📄 Know about my experiences:</h3>

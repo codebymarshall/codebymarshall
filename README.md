@@ -2,12 +2,10 @@
 <h2 align="center">A passionate Full Stack Software Engineer</h2>
 <h3 align="center">👨‍💻 All of my projects are available at <a href="https://jonathanmarshall.xyz" target="blank">my portfilio website.</h3>
 
-### 👷 Check out what I'm currently working on
-
-- [E-commerce Store Demo](https://github.com/codebymarshall/eccomerce-store)
-
 ### 🌱 My latest projects
 
+- [ResumeAI](https://resume-pilot-fp94.vercel.app/) - A is a sophisticated AI-powered platform that optimizes resumes for ATS systems
+- [E-commerce Store Demo](https://eccomerce-store-nine.vercel.app/) - A Modernize Ecommerce Store
 - [Android App](https://github.com/codebymarshall/mobile-app) - My first android app project
 - [Platformer Game](https://github.com/codebymarshall/finding-home/) - Simple Javascript Game
 
